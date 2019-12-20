@@ -23,7 +23,7 @@ body ,#app{
 }
 //定义一个布局容器
 .y-container{
-  width: 1180px;
+  max-width: 1180px;
   margin: 0 auto;
   display: block;
 }
